@@ -8,10 +8,13 @@ Currently included:
 
 ---
 
-## Databricks Tab Emoji Label
+## Databricks Tab Labeller
 
 A [Tampermonkey](https://www.tampermonkey.net/) userscript that adds an **emoji + environment label** to your Databricks browser tab title.  
+
 This helps quickly distinguish between **DEV**, **QA**, and **PROD** environments while working with multiple tabs.
+
+![Tab Labeller](./tab-labeller/images/WorkingScript.png)
 
 ### Features
 - Adds `[🟢 DEV]`, `[🟡 QA]`, or `[🔴 PROD]` to the browser tab title.  
